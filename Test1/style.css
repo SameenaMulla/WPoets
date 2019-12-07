@@ -1,0 +1,40 @@
+body {
+		
+		font-family: 'Roboto', sans-serif;
+	}
+
+
+
+	.p-x-y{
+		padding: 100px;
+	}
+
+	table{
+		width: 100%;
+		 text-align: center;
+	}
+
+	.addusertable{
+		width:100%;
+		 border:0;
+		 text-align: center;
+
+	}
+
+	.addusertable tr td{
+		padding: 10px;
+		
+	}
+
+	.addusertable tr td input{
+		width: 50%;
+		
+	}
+
+	.addbtn{
+		width: 110px !important;
+	    color: #fff;
+	    background-color: #275e8e;
+	    height: 35px;
+	    border: none;
+	}
